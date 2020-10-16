@@ -10,8 +10,7 @@ repaired app failed detection for not only facebook, but for all applications,
 then automatic block if switch was on block mode. ()
 
 # Instalation
-Dependacies: 
-Instal those before you instal BegoneCIA! 
+Dependencies: Instal those before you instal BegoneCIA! 
 - Filza File MAnager
 - CCSupport
 - RocketBootstrap
@@ -23,7 +22,7 @@ Instal BegoneCIA ios11-13.deb using Filza.
 Done ! 
 Controls are in CC and app settings in Tweak section as always have been.
 
-
+# Tested on ios 11 - 14. It works.
 
 # Original developer () 
 
