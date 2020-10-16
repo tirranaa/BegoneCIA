@@ -2,7 +2,7 @@
 
 ## Update
 
-# Removed IOS operating systems version restrictions ! (ios 11 - 14) 
+# Removed IOS operating systems version restrictions ! (IOS 11 - 14) 
 
 Block GPS, WIFI registry share, camera, microphones and audio, 
 case switch for disabled blocking when incoming calls by any app, 
