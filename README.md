@@ -22,7 +22,7 @@ Instal BegoneCIA ios11-13.deb using Filza.
 Done ! 
 Controls are in CC and app settings in Tweak section as always have been.
 
-# Tested on ios 11 - 14. It works.
+- Tested on ios 11 - 14. It works.
 
 # Original developer () 
 
