@@ -17,7 +17,7 @@
 # Crash info
 - Automatic switch case functions are only for calls from all applications including system apps (Incoming and outgoing).
 - Unsupported case scenario: 
-- If an app that relies solely on the existence of camera or anything else that is blocked is started, it will crash immediately after it can't detect existing camera or else (example tiktok) that it needs camera to function, to use such applications, before using them, manually disable BegoneCIA using CC switch, then reactivate it after you are done with the app, to protect your privacy from unauthorized access by apps or system services to your communication devices.
+- If an app that relies solely on the existence of camera or anything else that is blocked is started, it will crash immediately after it can't detect existing camera or else (example tiktok) that it needs camera to function, to use such applications, before using them, manually disable BegoneCIA using CC switch, then reactivate it after you are done with the app, to protect your privacy from unauthorized access by apps or system services to your visual-audio communication devices and location services including blocked records of locations, to avoid permanently location registries access, use relocate or other spoofer services that change locations and blocks actual registries, because while you have disabled BegoneCAI, you will be open for share the moment BegoneCIA is disabled, for a call or some manual other app use, while that is the case, use the case use defence, with spoofer services by your choice.
 
 # Instalation
 Dependencies: Instal those before you instal BegoneCIA! 
