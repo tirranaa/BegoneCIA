@@ -4,10 +4,15 @@
 
 # Removed IOS operating systems version restrictions ! (IOS 11 - 14) 
 
-Block GPS, WIFI registry share, camera, microphones and audio, 
-case switch for disabled blocking when incoming calls by any app, 
-repaired app failed detection for not only facebook, but for all applications, 
-then automatic block if switch was on block mode. ()
+- Block GPS 
+- Block WIFI registry share 
+- Block Cameras 
+- Block Microphones
+- Block Audio 
+- Block Audio polarity reversal options. 
+- Fixed Case switch for disabled blocking when incoming calls by any app, 
+- Fixed app failed detection for not only facebook.
+- Fixed for all applications, automatic block if switch was on block mode after call.
 
 # Instalation
 Dependencies: Instal those before you instal BegoneCIA! 
@@ -17,9 +22,9 @@ Dependencies: Instal those before you instal BegoneCIA!
 - Cephei Tweak Support
 - Apple file conduit 2
 - Transfer (BegoneCIA ios11-13.deb) to root of the iphone (Required "apple file conduit 2" and by your choosing desktop transfer app depending operating system used), 
-Instal BegoneCIA ios11-13.deb using Filza.
+- Instal BegoneCIA ios11-13.deb using Filza.
 Done ! 
-Controls are in CC and app settings in Tweak section as always have been.
+- Controls are in CC and app settings in Tweak section as always have been.
 
 - Tested on ios 11 - 14. It works.
 
