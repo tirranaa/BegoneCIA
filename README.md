@@ -16,18 +16,16 @@ Dependencies: Instal those before you instal BegoneCIA!
 - RocketBootstrap
 - Cephei Tweak Support
 - Apple file conduit 2
-- Then: (BegoneCIA ios11-13.deb)
-- Transfer BegoneCIA to root of the iphone (Required "apple file conduit 2" and by your choosing desktop transfer app depending operating system used), 
+- Transfer (BegoneCIA ios11-13.deb) to root of the iphone (Required "apple file conduit 2" and by your choosing desktop transfer app depending operating system used), 
 Instal BegoneCIA ios11-13.deb using Filza.
 Done ! 
 Controls are in CC and app settings in Tweak section as always have been.
 
 - Tested on ios 11 - 14. It works.
 
-- Original developer () 
+# Original developer () 
 
-Nepeta.me No longer using the same name ! Deleted all rhapsodies due attempts to find identity !
-Nepeta.me No longer exist ! We thank you, for your work !
+Nepeta.me No longer using the same name ! Deleted all rhapsodies due attempts to find identity ! Nepeta.me No longer exist ! We thank you, for your work !
 
 - Nepeta's mirror for old tweaks (iOS 12 and below). : https://old.nepeta.me/
 
