@@ -17,7 +17,7 @@ Instal those before you instal BegoneCIA!
 - RocketBootstrap
 - Cephei Tweak Support
 - Apple file conduit 2
-# Then: 
+# Then: (BegoneCIA ios11-13.deb)
 - Transfer BegoneCIA to root of the iphone (Required "apple file conduit 2" and by your choosing desktop transfer app depending operating system used), 
 Instal BegoneCIA ios11-13.deb using Filza.
 Done ! 
