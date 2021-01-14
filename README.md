@@ -1,6 +1,6 @@
 ### BegoneCIA 
 
-- Update
+- Updated version.
 
 # Removed IOS operating systems version restrictions ! (IOS 11 - 14) 
 
@@ -35,10 +35,7 @@ Done !
 
 - Tested on ios 11 - 14. It works.
 
-# Original developer () 
-
-Nepeta.me No longer using the same name ! Deleted all rhapsodies due attempts to find identity ! Nepeta.me No longer exist ! We thank you, for your work !
-
+# Original developer (Old Versions) 
 - Nepeta's mirror for old tweaks (iOS 12 and below). : https://old.nepeta.me/
 
 
