@@ -34,6 +34,3 @@ Done !
 - Controls are in CC and app settings in Tweak section as always have been.
 
 - Tested on ios 11 - 14. It works.
-
-
-
