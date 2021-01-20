@@ -35,8 +35,5 @@ Done !
 
 - Tested on ios 11 - 14. It works.
 
-# Original developer (Old Versions) 
-- Nepeta's mirror for old tweaks (iOS 12 and below). : https://old.nepeta.me/
-
 
 
